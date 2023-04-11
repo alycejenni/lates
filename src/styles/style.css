@@ -1,3 +1,7 @@
+body {
+    background-color: blanchedalmond;
+}
+
 @media (max-width: 575px) {
     .gallery-container{
         column-count: 1;
