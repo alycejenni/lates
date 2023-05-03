@@ -1,3 +1,7 @@
+# This is a test repo. The real one is here -> [NaturalHistoryMuseum/lates-may-23](https://github.com/NaturalHistoryMuseum/lates-may-23)
+
+***
+
 ## How to add images
 
 [UPLOAD PAGE HERE](https://github.com/alycejenni/lates/upload/main/images)
